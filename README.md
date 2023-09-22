@@ -1,1 +1,1 @@
-# Github Repo met de notullen in org mode
+# Git Repo met de notullen in org mode
